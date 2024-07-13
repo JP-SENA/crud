@@ -1,0 +1,7 @@
+com\jpadilla\app\crud\entities\User$TypeDoc.class
+com\jpadilla\app\crud\Crud.class
+com\jpadilla\app\crud\entities\User$Profile.class
+com\jpadilla\app\crud\db\MysqlConnect.class
+com\jpadilla\app\crud\services\UserService.class
+com\jpadilla\app\crud\controllers\UserController.class
+com\jpadilla\app\crud\entities\User.class
